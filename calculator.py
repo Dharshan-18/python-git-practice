@@ -1,4 +1,4 @@
-def divide(a, b):
-    return a / b
+def square(a):
+    return a * a
 
-print(divide(10, 2))
+print(square(5))
